@@ -3,4 +3,4 @@ project(YHZLeetCodeStudy)
 
 set(CMAKE_CXX_STANDARD 23)
 
-add_executable(YHZLeetCodeStudy main.cpp)
+add_executable(YHZLeetCodeStudy main.cpp YHZNumsKNum.cpp YHZNumsKNum.h)
